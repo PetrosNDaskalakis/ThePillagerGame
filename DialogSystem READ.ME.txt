@@ -1,0 +1,10 @@
+how to use:
+
+attach the DialogActivator.cs to the NPC
+
+attach a CircleCollider2D in the NPC and make IsTrigger true
+
+Put the DialogCanvas in the scene
+
+Put the DialogUI.cs in the DialogCanvas
+
